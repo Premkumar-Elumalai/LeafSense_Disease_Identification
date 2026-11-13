@@ -22,3 +22,13 @@ The complete implementation package, including all 13 original implementation fo
 ## Reproducibility
 
 The complete implementation archive preserves the original directory hierarchy to support independent verification and research reproducibility.
+
+## Jupyter Notebook Implementation
+
+The original Jupyter Notebook used for the LeafSense implementation is included in the complete Zenodo archive.
+
+**Notebook Directory:** `06_Notebook-LeafSense_New Final`
+
+**Notebook File:** Original LeafSense implementation (`.ipynb`)
+
+**Complete Archive:** https://doi.org/10.5281/zenodo.24195392
